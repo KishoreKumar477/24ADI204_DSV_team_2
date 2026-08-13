@@ -19,4 +19,4 @@ The uniqueness of this approach lies in its integration of descriptive analytics
 | Churn Prediction • Machine Learning • XGBoost • Feature Engineering • Customer Retention • Classification • Data Visualization • Imbalanced Data • Predictive Analytics |
 | :---- |
 
-[Kishore](mailto:kishorekumar040707@gmail.com) | B.Tech AI & Data Science
+[Kishore kumar R](mailto:kishorekumar040707@gmail.com) [Mathesh A S] [Kiruthik Roshan R] [Kishore K]| B.Tech AI & Data Science
